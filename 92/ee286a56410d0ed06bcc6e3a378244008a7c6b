@@ -1,0 +1,25 @@
+lib/jade/codegen/inlines.rb
+  s_805f7d106d4eac::t_1f5b9157637d6f 57
+spec/lib/jade/stdlib/string_spec.rb
+  s_805f7d106d4eac::t_308197b20e47d6 44-60,65-87
+  s_805f7d106d4eac::t_b4c4e759c85b95 61-64
+spec/compilation/string_spec.rb
+  s_805f7d106d4eac::t_860c3702152dd8 43-47,49-90
+  s_805f7d106d4eac::t_363820d0c255cb 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "92ee286a56410d0ed06bcc6e3a378244008a7c6b",
+  "prompts": {},
+  "sessions": {
+    "s_805f7d106d4eac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ec7ee64-5662-4e53-b6b8-14ed763a9e53",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
