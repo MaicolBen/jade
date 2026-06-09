@@ -1,0 +1,22 @@
+lib/jade/codegen/inlines.rb
+  s_805f7d106d4eac::t_14448317666a87 57
+spec/lib/jade/stdlib/string_spec.rb
+  s_805f7d106d4eac::t_4fc896205eef56 62-63
+  s_805f7d106d4eac::t_8a83b50299d470 64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b3ab9226de6a73a4a71b7be23a61cb18bc4c0b1d",
+  "prompts": {},
+  "sessions": {
+    "s_805f7d106d4eac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ec7ee64-5662-4e53-b6b8-14ed763a9e53",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "MaicolBen <maicol.bentancor@gmail.com>"
+    }
+  }
+}
